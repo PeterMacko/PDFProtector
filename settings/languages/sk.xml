@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE language SYSTEM "lang.dtd">
+
+<language sc="sk" name="Slovak">
+  <item ID="cancel"               val="zrušiť"/>
+  <item ID="sourceFile"           val="Zdrojový súbor"/>
+  <item ID="destFile"             val="Súbor pre uloženie"/>
+  <item ID="privateKey"           val="súkromný kľúč"/>
+  <item ID="publicKey"            val="verejný kľúč"/>
+  <item ID="printing"             val="tlač"/>
+  <item ID="contentCopy"          val="kopírovanie obsahu"/>
+  <item ID="lessQualityPrint"     val="menej kvalitná tlač"/>
+  <item ID="documentModificating" val="modifikovanie dokumentu"/>
+  <item ID="pageBookmarkRotation" val="rotácia strán a záloiek"/>
+  <item ID="mobileDevices"        val="mobilné zariadenia"/>
+  <item ID="modifyAnnotations"    val="editovanie vysvetliviek"/>
+  <item ID="fillIn"               val="vyplnanieFormulara" />
+  <item ID="allowEditing"         val="Správa povolení"/>
+  <item ID="hidePasses"           val="skryť heslá"/>
+  <item ID="secureDocumet"        val="zabespečiť dokument"/>
+  <item ID="metaDatesEdit"        val="editovať podrobnosti"/>
+  <item ID="metaDatesEditTitle"   val="Editovanie podrobností"/>
+  <item ID="incorrectFile"        val="Nesprávny alebo neexistujúci súbor."/>
+  <item ID="error"                val="Chyba"/>
+  <item ID="missingFile"          val="Chýbajúci súbor"/>
+  <item ID="errorReadingFile"     val="Chyba čítania súboru"/>
+  <item ID="yes"                  val="áno"/>
+  <item ID="no"                   val="Nie"/>
+  <item ID="cancelOperation"      val="Zrušiť operáciu."/>
+  <item ID="rewriteFileMessage"   val="Súbor %s už existuje. Prajete si ho prepísať?"/>
+  <item ID="rewriteFileTitle"     val="Súbor už existuje"/>
+  <item ID="errorFileNotFound"    val="Súbor sa nenašiel"/>
+  <item ID="title"                val="Titul"/>
+  <item ID="subject"              val="Predmet"/>
+  <item ID="autor"                val="Autor"/>
+  <item ID="keywords"             val="Kľúčové slová"/>
+  <item ID="save"                 val="Uložiť"/>
+  <item ID="noPasswordGiven"      val="Nebolo zadané heslo pre zabespečené PDF"/>
+</language>

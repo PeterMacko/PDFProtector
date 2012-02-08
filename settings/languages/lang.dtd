@@ -1,0 +1,10 @@
+<!ELEMENT language (item*)>
+<!ELEMENT item (#PCDATA)>
+<!ATTLIST item
+   ID     ID       #IMPLIED
+   val    CDATA    #REQUIRED
+>
+<!ATTLIST language
+  sc      CDATA    #REQUIRED
+  name    CDATA    #REQUIRED
+>
